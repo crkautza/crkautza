@@ -5,19 +5,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Especialista+PHP+%26+Flutter;8%2B+Anos+de+Experiência;Sistemas+Escaláveis" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Especialista+PHP+%26+Flutter;8%2B+Anos+de+Experiência;Sistemas+Escaláveis" />
 </p>
 
 ---
 
 ### 🚀 Sobre Mim
 
-[cite_start]Sou um Engenheiro de Software com mais de 8 anos de experiência prática[cite: 15, 18]. [cite_start]Focado no desenvolvimento de sistemas escaláveis e produtos digitais de alta performance, com entregas para grandes marcas e infraestruturas críticas[cite: 18, 19].
+[cite_start]Sou um **Engenheiro de Software com mais de 8 anos de experiência** prática[cite: 15, 18]. [cite_start]Focado no desenvolvimento de sistemas escaláveis e produtos digitais de alta performance, com entregas para grandes marcas e infraestruturas críticas[cite: 18, 19].
 
 - [cite_start]📱 **Mobile (Flutter/Dart):** Responsável por fluxos complexos de UI e lógica no app da **Reebok Club**[cite: 20, 46].
-- [cite_start]🏗️ **Backend & APIs:** Desenvolvi sistemas core e arquitetura para a **GWM Brasil** e **Carris Metropolitana** em Portugal[cite: 21, 22, 33, 36, 41].
-- [cite_start]💡 **Liderança Técnica:** Gestão de projetos de alta complexidade e criação de plataformas gamificadas[cite: 23, 31].
-- [cite_start]🌍 **Localização:** Atuando a partir de Encarnación, Paraguai[cite: 34].
+- [cite_start]🏗️ **Backend & APIs:** Desenvolvi sistemas core e arquitetura para a **GWM Brasil** e **Carris Metropolitana** em Portugal[cite: 21, 22, 33, 39].
+- [cite_start]💡 **Liderança Técnica:** Gestão de projetos de alta complexidade (acima de R$ 100 mil) e criação de plataformas gamificadas[cite: 23].
+- [cite_start]🌍 **Localização:** Atuando a partir de Encarnación, Paraguai[cite: 16, 34].
 
 ---
 
@@ -35,8 +35,8 @@
 
 | Empresa | Função | Descrição |
 | :--- | :--- | :--- |
-| **Carris Metropolitana 🇵🇹** | Software Engineer | [cite_start]APIs core e painéis de gestão estratégica para Lisboa[cite: 33, 36, 37]. |
-| **GWM Brasil 🇧🇷** | Arquiteto Backend | [cite_start]Sistemas core e interfaces Smart TV para concessionárias[cite: 39, 41, 42]. |
+| **Carris Metropolitana 🇵🇹** | Software Engineer | [cite_start]APIs core e painéis de gestão estratégica para Lisboa[cite: 33, 36]. |
+| **GWM Brasil 🇧🇷** | Arquiteto Backend | [cite_start]Sistemas core e interfaces Smart TV para concessionárias[cite: 39, 41]. |
 | **Reebok Sports Club 👟** | Mobile Developer | [cite_start]Modernização técnica e estética do app oficial em Flutter[cite: 45, 46]. |
 | **Balanzzy 🚌** | Full Stack Developer | [cite_start]Arquitetura de APIs para a jornada educativa Mini Passageiros[cite: 27, 29, 30]. |
 
@@ -44,14 +44,14 @@
 
 ### 📊 Estatísticas e Atividade
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-jstin.vercel.app/api?username=crkautza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-jstin.vercel.app/api/top-langs/?username=crkautza&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crkautza&show_icons=true&theme=tokyonight&count_private=true" width="400px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=crkautza&theme=tokyonight&hide_progress=false" width="400px" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=tokyonight" width="810px" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=tokyonight" />
-</p>
+---
 
 ---
 
