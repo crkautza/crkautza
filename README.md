@@ -12,12 +12,12 @@
 
 ### 🚀 Sobre Mim
 
-[cite_start]Sou um **Engenheiro de Software com mais de 8 anos de experiência** prática[cite: 15, 18]. [cite_start]Focado no desenvolvimento de sistemas escaláveis e produtos digitais de alta performance, com entregas para grandes marcas e infraestruturas críticas[cite: 18, 19].
+[cite_start]Sou um **Engenheiro de Software com mais de 8 anos de experiência** prática[cite: 15, 18]. [cite_start]Focado no desenvolvimento de sistemas escaláveis e produtos digitais de alta performance, com entregas para grandes marcas e infraestruturas críticas[cite: 19].
 
-- [cite_start]📱 **Mobile (Flutter/Dart):** Responsável por fluxos complexos de UI e lógica no app da **Reebok Club**[cite: 20].
-- [cite_start]🏗️ **Backend & APIs:** Desenvolvi sistemas core e arquitetura para a **GWM Brasil** e **Carris Metropolitana** (Portugal)[cite: 21, 22].
-- [cite_start]💡 **Liderança Técnica:** Gestão de projetos de alta complexidade e criação de plataformas gamificadas[cite: 23].
-- [cite_start]🌍 **Localização:** Atuando a partir de Encarnación, Paraguai[cite: 2, 34].
+- [cite_start]📱 **Mobile (Flutter/Dart):** Responsável por fluxos complexos de UI e lógica no app da **Reebok Club**[cite: 20, 45, 46].
+- [cite_start]🏗️ **Backend & APIs:** Desenvolvi sistemas core e arquitetura para a **GWM Brasil** e **Carris Metropolitana** em Portugal[cite: 21, 22, 33, 39].
+- [cite_start]💡 **Liderança Técnica:** Gestão de projetos de alta complexidade (acima de R$ 100 mil) e criação de plataformas gamificadas[cite: 23].
+- [cite_start]🌍 **Localização:** Atuando a partir de Encarnación, Paraguai[cite: 34].
 
 ---
 
@@ -35,10 +35,10 @@
 
 | Empresa | Função | Descrição |
 | :--- | :--- | :--- |
-| **Carris Metropolitana 🇵🇹** | Engenheiro de Software | [cite_start]APIs core e painéis de gestão estratégica para Lisboa[cite: 33, 36]. |
-| **GWM Brasil 🇧🇷** | Arquiteto Backend | [cite_start]Sistemas core e interfaces Smart TV para concessionárias nacionais[cite: 39, 41, 42]. |
+| **Carris Metropolitana 🇵🇹** | Software Engineer | [cite_start]APIs core e painéis de gestão estratégica para Lisboa[cite: 33, 35]. |
+| **GWM Brasil 🇧🇷** | Arquiteto Backend | [cite_start]Sistemas core e interfaces Smart TV para concessionárias[cite: 39, 41]. |
 | **Reebok Sports Club 👟** | Mobile Developer | [cite_start]Modernização técnica e estética do app oficial em Flutter[cite: 45, 46]. |
-| **Balanzzy 🚌** | Full Stack Developer | [cite_start]Arquitetura de APIs para a jornada educativa Mini Passageiros[cite: 27, 29, 30]. |
+| **Balanzzy 🚌** | Full Stack Developer | [cite_start]Arquitetura de APIs para a jornada educativa Mini Passageiros[cite: 27, 29]. |
 
 ---
 
@@ -57,9 +57,9 @@
 
 ### 🌍 Idiomas
 
-- [cite_start]**Português:** Nativo[cite: 13].
-- [cite_start]**Inglês:** Full Professional[cite: 13].
-- [cite_start]**Espanhol:** Full Professional[cite: 13].
+- [cite_start]**Português:** Nativo.
+- [cite_start]**Inglês:** Full Professional.
+- [cite_start]**Espanhol:** Full Professional.
 
 ---
 
@@ -68,6 +68,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/crkautza" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@malogro" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://gitlab.com/crkautza" target="blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
   <a href="mailto:crkautza@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
