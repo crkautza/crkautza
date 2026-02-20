@@ -14,7 +14,7 @@ Engenheiro de Software com **8 anos de experiência prática** no desenvolviment
 * **Sistemas Core:** Desenvolvimento de APIs robustas utilizando Slim Framework, Twig e integração com PostgreSQL/MySQL.
 * **Engenharia Mobile:** Domínio de Flutter e Dart para fluxos complexos de UI e gerenciamento de estado.
 * **Operações Técnicas:** Liderança técnica em transmissões ao vivo, mixagem de áudio e infraestrutura de vídeo (GWM Live Pernambuco).
-* **Fundação Técnica:** Conhecimentos em C/C++, Assembly e Matemática Avançada (Programa Acadêmico em Portugal).
+* **Fundação Técnica:** Matemática Avançada (Programa Acadêmico em Portugal).
 
 ---
 
