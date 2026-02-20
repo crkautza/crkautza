@@ -12,12 +12,12 @@
 
 ### 🚀 Sobre Mim
 
-[cite_start]Sou um **Engenheiro de Software com mais de 8 anos de experiência** prática[cite: 15, 18]. [cite_start]Focado no desenvolvimento de sistemas escaláveis e produtos digitais de alta performance, com entregas para grandes marcas e infraestruturas críticas[cite: 19].
+Sou um **Engenheiro de Software com mais de 8 anos de experiência** prática. Focado no desenvolvimento de sistemas escaláveis e produtos digitais de alta performance, com entregas para grandes marcas e infraestruturas críticas.
 
-- [cite_start]📱 **Mobile (Flutter/Dart):** Responsável por fluxos complexos de UI e lógica no app da **Reebok Club**[cite: 20, 45, 46].
-- [cite_start]🏗️ **Backend & APIs:** Desenvolvi sistemas core e arquitetura para a **GWM Brasil** e **Carris Metropolitana** em Portugal[cite: 21, 22, 33, 39].
-- [cite_start]💡 **Liderança Técnica:** Gestão de projetos de alta complexidade (acima de R$ 100 mil) e criação de plataformas gamificadas[cite: 23].
-- [cite_start]🌍 **Localização:** Atuando a partir de Encarnación, Paraguai[cite: 34].
+- 📱 **Mobile (Flutter/Dart):** Responsável por fluxos complexos de UI e lógica no app da **Reebok Club**.
+- 🏗️ **Backend & APIs:** Desenvolvi sistemas core e arquitetura para a **GWM Brasil** e **Carris Metropolitana** (Portugal).
+- 💡 **Liderança Técnica:** Gestão de projetos de alta complexidade (acima de R$ 100 mil) e criação de plataformas gamificadas.
+- 🌍 **Localização:** Atuando a partir de Encarnación, Paraguai.
 
 ---
 
@@ -35,10 +35,10 @@
 
 | Empresa | Função | Descrição |
 | :--- | :--- | :--- |
-| **Carris Metropolitana 🇵🇹** | Software Engineer | [cite_start]APIs core e painéis de gestão estratégica para Lisboa[cite: 33, 35]. |
-| **GWM Brasil 🇧🇷** | Arquiteto Backend | [cite_start]Sistemas core e interfaces Smart TV para concessionárias[cite: 39, 41]. |
-| **Reebok Sports Club 👟** | Mobile Developer | [cite_start]Modernização técnica e estética do app oficial em Flutter[cite: 45, 46]. |
-| **Balanzzy 🚌** | Full Stack Developer | [cite_start]Arquitetura de APIs para a jornada educativa Mini Passageiros[cite: 27, 29]. |
+| **Carris Metropolitana 🇵🇹** | Software Engineer | APIs core e painéis de gestão estratégica para Lisboa. |
+| **GWM Brasil 🇧🇷** | Arquiteto Backend | Sistemas core e interfaces Smart TV para concessionárias. |
+| **Reebok Sports Club 👟** | Mobile Developer | Modernização técnica e estética do app oficial em Flutter. |
+| **Balanzzy 🚌** | Full Stack Developer | Arquitetura de APIs para a jornada educativa Mini Passageiros. |
 
 ---
 
@@ -57,9 +57,9 @@
 
 ### 🌍 Idiomas
 
-- [cite_start]**Português:** Nativo.
-- [cite_start]**Inglês:** Full Professional.
-- [cite_start]**Espanhol:** Full Professional.
+- **Português:** Nativo.
+- **Inglês:** Full Professional.
+- **Espanhol:** Full Professional.
 
 ---
 
