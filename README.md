@@ -7,7 +7,7 @@
 
 ---
 
-### Perfil Profissional
+### Sobre Mim
 
 Engenheiro de Software com **8 anos de experiência prática** no desenvolvimento de soluções end-to-end. Atuação sólida no desenvolvimento de sistemas core para mobilidade urbana, arquitetura de APIs para o setor automotivo e modernização de aplicações mobile de alta escala.
 
