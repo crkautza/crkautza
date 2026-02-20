@@ -1,53 +1,71 @@
 # Olá, eu sou o Caio Richard! 👋
 
-### Software Engineer | Especialista PHP & Flutter | [cite_start]8+ Anos de Experiência [cite: 15, 18]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Especialista+PHP+%26+Flutter;8%2B+Anos+de+Experi%C3%AAncia;Criando+Sistemas+Escal%C3%A1veis" alt="Typing SVG" />
+</p>
 
-[cite_start]Sou um Engenheiro de Software focado no desenvolvimento de sistemas escaláveis e produtos digitais de alta performance[cite: 18]. [cite_start]Minha carreira é pautada pela entrega de soluções técnicas complexas para grandes marcas e infraestruturas críticas[cite: 19].
+---
+
+### 🚀 Sobre Mim
+
+Sou um **Engenheiro de Software com mais de 8 anos de experiência** prática, focado no desenvolvimento de sistemas escaláveis e produtos digitais de alta performance. Minha carreira é pautada pela entrega de soluções técnicas complexas para grandes marcas e infraestruturas críticas.
+
+- 📱 **Mobile (Flutter/Dart):** Especialista em fluxos complexos de UI e lógica, com histórico na **Reebok Club**.
+- 🌐 **Backend & Arquitetura:** Design de APIs e sistemas core para a **GWM Brasil** e **Carris Metropolitana (Portugal)**.
+- 🛠️ **Liderança Técnica:** Gestão de projetos acima de **R$ 100 mil**, transformando requisitos em plataformas robustas.
+- 🎥 **Comunidade:** Compartilho conhecimento técnico no canal **@malogro** no YouTube.
 
 ---
 
 ### 🛠️ Minha Stack Tecnológica
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Slim](https://img.shields.io/badge/Slim-5EAD35?style=for-the-badge&logo=php&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
-| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-
----
-
-### 🚀 Projetos de Impacto
-
-* [cite_start]**Carris Metropolitana (Portugal):** Atuo na arquitetura e construção das APIs core e painéis de gestão estratégica para a principal operadora de mobilidade de Lisboa[cite: 33, 35, 36].
-* [cite_start]**GWM Brasil:** Desenvolvi sistemas core e arquitetura de APIs para a interface de Smart TVs utilizada em todas as concessionárias da marca no Brasil[cite: 38, 41, 42].
-* [cite_start]**Reebok Sports Club SP:** Responsável pela modernização técnica e estética do novo aplicativo oficial em Flutter[cite: 44, 45, 46].
-* [cite_start]**Balanzzy:** Colaboração na iniciativa Mini Passageiros, focada em APIs dinâmicas e experiências gamificadas[cite: 27, 29, 30].
-
----
-
-### 📊 Estatísticas do GitHub
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioRichardK&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Caio Richard" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,flutter,dart,js,python,react,mysql,html,css,git,github,gitlab,figma,postman" />
+  </a>
 </p>
 
+**Tecnologias de Destaque:**
+- **Backend:** PHP (Slim, Twig), API Design, Python.
+- **Frontend/Mobile:** Flutter, Dart, React.js, JavaScript (ES6+).
+- **Infra:** MySQL, Gerenciamento de infraestrutura de transmissão e áudio.
+
 ---
 
-### 🌍 Idiomas
+### 📈 Projetos em Destaque e Impacto
 
-* [cite_start]**Português:** Nativo[cite: 13].
-* [cite_start]**Inglês:** Full Professional[cite: 13].
-* [cite_start]**Espanhol:** Full Professional[cite: 13].
+| Projeto | Papel | Descrição |
+| :--- | :--- | :--- |
+| **Carris Metropolitana 🇵🇹** | Software Engineer | APIs core e painéis estratégicos para a mobilidade urbana de Lisboa. |
+| **GWM Brasil 🇧🇷** | Arquiteto Backend | Sistema core para concessionárias e interfaces Smart TV em escala nacional. |
+| **Reebok Sports Club 👟** | Mobile Developer | Modernização completa do app oficial para Flutter com foco em performance. |
+| **Balanzzy (Mini Passageiros) 🚌** | Full Stack | APIs para educação em mobilidade sustentável e experiências gamificadas. |
+
+---
+
+### 📊 Estatísticas e Atividade
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioRichardK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRichardK&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioRichardK&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-* [cite_start][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crkautza) [cite: 4]
-* [cite_start][![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@malogro) [cite: 6]
-* [cite_start][![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/crkautza) 
-* [cite_start]**Email:** crkautza@gmail.com [cite: 3]
+<p align="left">
+<a href="https://www.linkedin.com/in/crkautza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crkautza" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@malogro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@malogro" height="30" width="40" /></a>
+<a href="mailto:crkautza@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="30" /></a>
+</p>
 
 ---
-[cite_start]*Focado em transformar requisitos de negócio em sistemas robustos e escaláveis.* [cite: 23]
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quotes" />
+</p>
