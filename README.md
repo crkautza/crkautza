@@ -7,18 +7,18 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/-Perfil_Profissional-white?style=flat-square&logo=target&logoColor=white&color=000" height="25">
+### Perfil Profissional
 
 Engenheiro de Software com **8 anos de experiência prática** no desenvolvimento de soluções end-to-end. Atuação sólida no desenvolvimento de sistemas core para mobilidade urbana, arquitetura de APIs para o setor automotivo e modernização de aplicações mobile de alta escala.
 
-* <img src="https://img.shields.io/badge/-Backend-white?style=flat-square&logo=php&logoColor=white&color=000"> **Sistemas Core:** Desenvolvimento de APIs robustas utilizando Slim Framework, Twig e integração com PostgreSQL/MySQL.
-* <img src="https://img.shields.io/badge/-Mobile-white?style=flat-square&logo=flutter&logoColor=white&color=000"> **Engenharia Mobile:** Domínio de Flutter e Dart para fluxos complexos de UI e gerenciamento de estado.
-* <img src="https://img.shields.io/badge/-Streaming-white?style=flat-square&logo=video&logoColor=white&color=000"> **Operações Técnicas:** Liderança técnica em transmissões ao vivo, mixagem de áudio e infraestrutura de vídeo (GWM Live).
-* <img src="https://img.shields.io/badge/-Research-white?style=flat-square&logo=academia&logoColor=white&color=000"> **Fundação Técnica:** Conhecimentos em C/C++, Assembly e Matemática Avançada (Programa Acadêmico em Portugal).
+* **Sistemas Core:** Desenvolvimento de APIs robustas utilizando Slim Framework, Twig e integração com PostgreSQL/MySQL.
+* **Engenharia Mobile:** Domínio de Flutter e Dart para fluxos complexos de UI e gerenciamento de estado.
+* **Operações Técnicas:** Liderança técnica em transmissões ao vivo, mixagem de áudio e infraestrutura de vídeo (GWM Live Pernambuco).
+* **Fundação Técnica:** Conhecimentos em C/C++, Assembly e Matemática Avançada (Programa Acadêmico em Portugal).
 
 ---
 
-### <img src="https://img.shields.io/badge/-Experiência_e_Impacto-white?style=flat-square&logo=journey&logoColor=white&color=000" height="25">
+### Experiência e Impacto
 
 | Instituição | Escopo de Atuação |
 | :--- | :--- |
@@ -30,7 +30,7 @@ Engenheiro de Software com **8 anos de experiência prática** no desenvolviment
 
 ---
 
-### <img src="https://img.shields.io/badge/-Domínio_Tecnológico-white?style=flat-square&logo=cpu&logoColor=white&color=000" height="25">
+### Domínio Tecnológico
 
 **Desenvolvimento e Frameworks**
 <p align="left">
@@ -47,13 +47,13 @@ Engenheiro de Software com **8 anos de experiência prática** no desenvolviment
 </p>
 
 **Sistemas Operacionais e Ambientes**
-* <img src="https://img.shields.io/badge/-Windows-white?style=flat-square&logo=windows&logoColor=white&color=000"> **Microsoft Windows:** Ambiente de liderança técnica e operações GWM.
-* <img src="https://img.shields.io/badge/-macOS-white?style=flat-square&logo=apple&logoColor=white&color=000"> **macOS:** Ambiente principal de desenvolvimento mobile (Reebok Club).
-* <img src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux&logoColor=white&color=000"> **Linux:** Experiência com Arch Linux e Kali Linux para segurança e infraestrutura.
+* **Microsoft Windows:** Estação base para operações de vídeo e liderança técnica na GWM.
+* **macOS:** Ambiente principal de desenvolvimento mobile (Reebok Club).
+* **Linux:** Experiência com Arch Linux e Kali Linux para segurança e infraestrutura.
 
 ---
 
-### <img src="https://img.shields.io/badge/-Estatísticas-white?style=flat-square&logo=googleanalytics&logoColor=white&color=000" height="25">
+### Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crkautza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="450px"/>
@@ -63,7 +63,7 @@ Engenheiro de Software com **8 anos de experiência prática** no desenvolviment
 
 ---
 
-### <img src="https://img.shields.io/badge/-Informações_Adicionais-white?style=flat-square&logo=language&logoColor=white&color=000" height="25">
+### Informações Adicionais
 
 * **Idiomas:** Português (Nativo), Inglês (Fluente Profissional), Espanhol (Fluente Profissional).
 * **Localização Atual:** Encarnación, Paraguai.
@@ -71,7 +71,7 @@ Engenheiro de Software com **8 anos de experiência prática** no desenvolviment
 
 ---
 
-### <img src="https://img.shields.io/badge/-Networking-white?style=flat-square&logo=connect&logoColor=white&color=000" height="25">
+### Networking
 
 <p align="left">
   <a href="https://www.linkedin.com/in/crkautza" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
