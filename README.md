@@ -23,9 +23,9 @@ Engenheiro de Software com **8 anos de experiência prática** no desenvolviment
 | Instituição | Escopo de Atuação |
 | :--- | :--- |
 | **Carris Metropolitana 🇵🇹** | Desenvolvimento de APIs core e painéis de gestão para o sistema de transporte de Lisboa. |
-| **GWM Brasil 🇧🇷** | Arquiteto de sistemas backend e interfaces Smart TV para a rede de concessionárias. |
-| **Reebok Sports Club 👟** | Responsável pela modernização técnica e estética do app oficial utilizando Flutter. |
-| **Balanzzy 🚌** | Implementação de arquitetura de APIs para a jornada gamificada Mini Passageiros. |
+| **GWM Brasil** | Arquiteto de sistemas backend e interfaces Smart TV para a rede de concessionárias. |
+| **Reebok Sports Club** | Responsável pela modernização técnica e estética do app oficial utilizando Flutter. |
+| **Balanzzy** | Implementação de arquitetura de APIs para a jornada gamificada Mini Passageiros. |
 | **Tônica.ag** | Liderança técnica de operações e infraestrutura de streaming para eventos corporativos. |
 
 ---
