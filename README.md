@@ -46,8 +46,8 @@ Sou um **Engenheiro de Software com mais de 8 anos de experiência** prática, f
 ### 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioRichardK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRichardK&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crkautza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crkautza&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 <p align="center">
