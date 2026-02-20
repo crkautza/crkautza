@@ -45,10 +45,9 @@ Sou um **Engenheiro de Software com mais de 8 anos de experiência** prática. F
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crkautza&show_icons=true&theme=tokyonight&count_private=true" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crkautza&layout=compact&theme=tokyonight&langs_count=8" width="400px" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=tokyonight" width="810px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crkautza&show_icons=true&theme=tokyonight&count_private=true" width="450px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=tokyonight" width="450px" />
 </div>
 
 ---
