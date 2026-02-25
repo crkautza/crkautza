@@ -1,30 +1,31 @@
-name: Generate Stats Cards
+name: Update README cards
 
 on:
   schedule:
-    - cron: "0 * * * *" # Atualiza a cada hora
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
-  publish:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats Card
-        uses: github-readme-stats-team/github-readme-stats-action@v1
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          # Gera o card de estatísticas com seus parâmetros
-          # O parâmetro include_all_commits=true é o que vai buscar seus 2k+ commits
-          gh_payload: '{"username":"crkautza","show_icons":true,"theme":"tokyonight","count_private":true,"include_all_commits":true,"hide_border":true}'
-          output_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          # Adicionei seus parâmetros de tema e contagem total
+          options: username=crkautza&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true
+          path: profile/stats.svg
+          # IMPORTANTE: Usando o seu PAT aqui para ver os commits privados
+          token: ${{ secrets.TOKEN_STATS }}
 
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          mkdir -p profile
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
