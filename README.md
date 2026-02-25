@@ -55,8 +55,9 @@ Engenheiro de Software com **8 anos de experiência prática** no desenvolviment
 
 ### Estatísticas
 
+![Stats](./profile/stats.svg)
+
 <div align="center">
-  ![Stats](./profile/stats.svg)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=tokyonight&hide_border=true" width="450px" />
 </div>
 
