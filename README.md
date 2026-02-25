@@ -61,6 +61,12 @@ Engenheiro de Software com **8 anos de experiência prática** no desenvolviment
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=tokyonight&hide_border=true" width="450px" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ### Informações Adicionais
