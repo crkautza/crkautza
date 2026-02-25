@@ -64,7 +64,7 @@ Engenheiro de Software com **8 anos de experiência prática** no desenvolviment
 <br/>
 
 <div align="center">
-  <img src="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
