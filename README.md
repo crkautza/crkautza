@@ -56,7 +56,7 @@ Engenheiro de Software com **8 anos de experiência prática** no desenvolviment
 ### Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crkautza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="450px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=crkautza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="450px"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=tokyonight&hide_border=true" width="450px" />
 </div>
