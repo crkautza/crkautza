@@ -9,7 +9,7 @@
 
 ### Sobre Mim
 
-Engenheiro de Software com **8 anos de experiência prática** no desenvolvimento de soluções end-to-end. Atuação sólida no desenvolvimento de sistemas core para mobilidade urbana, arquitetura de APIs para o setor automotivo e modernização de aplicações mobile de alta escala.
+Sou Engenheiro de Software com foco em Backend, com experiência prática em desenvolvimento de APIs, arquitetura de software, DevOps e desenvolvimento de produtos digitais. Comecei a programar e estudar a área de tecnologia desde os meus 10 anos de idade, acumulando mais de 9 anos de contato contínuo com programação e desenvolvimento de software, além da experiência profissional adquirida ao longo da minha trajetória.
 
 * **Sistemas Core:** Desenvolvimento de APIs robustas utilizando Slim Framework, Twig e integração com PostgreSQL/MySQL.
 * **Engenharia Mobile:** Domínio de Flutter e Dart para fluxos complexos de UI e gerenciamento de estado.
