@@ -1,43 +1,42 @@
 # Caio Richard | Software Engineer
-**Especialista PHP & Flutter | Infraestrutura e Sistemas Escaláveis**
+
+**Backend Engineer | APIs, PHP/Python, SQL & Cloud | Application Security in Progress**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=0099ff&center=true&vCenter=true&width=600&lines=Desenvolvedor+Mobile+Pleno;Software+Engineer;Especialista+PHP+%26+Flutter;Arquitetura+de+Sistemas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=0099ff&center=true&vCenter=true&width=600&lines=Backend+Engineer;Software+Engineer;APIs+%7C+PHP+%7C+Python;Cloud+%7C+DevOps+%7C+Security" />
 </p>
 
 ---
 
 ### Sobre Mim
 
-**Backend Engineer | APIs, PHP/Python, SQL & Cloud | Application Security in Progress**
+Sou Engenheiro de Software com foco em **Backend e desenvolvimento de APIs**, com mais de 9 anos de experiência prática com programação e desenvolvimento de software. Comecei a programar aos 10 anos e, desde então, venho construindo sistemas, APIs e produtos digitais em diferentes contextos.
 
-Sou Engenheiro de Software com foco em Backend e mais de 9 anos de experiência prática com programação e desenvolvimento de software. Comecei a programar aos 10 anos e, desde então, venho trabalhando com desenvolvimento de APIs, sistemas, produtos digitais, cloud e DevOps.
+Meu foco principal está em **Backend, APIs, Cloud e DevOps**, utilizando tecnologias como **PHP, Python, SQL e JavaScript**. Também tenho experiência com **Flutter/Dart e desenvolvimento full stack**, além de estar aprofundando meus conhecimentos em **Application Security, DevSecOps e Cybersecurity**.
 
-Meu foco principal hoje está em **Backend e desenvolvimento de APIs**, utilizando tecnologias como **PHP, Python, SQL e JavaScript**, além de experiência com **Flutter/Dart** e desenvolvimento full stack. Também venho aprofundando meus conhecimentos em **Application Security, DevSecOps e Cybersecurity**, buscando unir desenvolvimento e segurança na construção de sistemas.
+Ao longo da minha trajetória, participei de projetos como o **Reebok Club**, trabalhando com Flutter/Dart; projetos relacionados à **GWM Brasil**, com desenvolvimento backend e integração de APIs; e soluções de tecnologia voltadas à mobilidade urbana em Portugal.
 
-Ao longo da minha trajetória, participei de projetos em diferentes contextos, incluindo o desenvolvimento de funcionalidades para o **Reebok Club**, sistemas e integrações de APIs para a **GWM Brasil** e soluções relacionadas à mobilidade urbana em Portugal.
+Também desenvolvo meus próprios projetos para aplicar esses conhecimentos na prática.
 
-Além da atuação profissional, desenvolvo meus próprios projetos para colocar esses conhecimentos em prática.
+Um dos principais é a **ByteSec**, uma plataforma gratuita que criei para ajudar quem quer entrar em Cybersecurity e não sabe por onde começar. A plataforma reúne conteúdos, artigos, exercícios e desafios práticos e já conta com **mais de 110 alunos**.
 
-Um deles é a **ByteSec**, uma plataforma gratuita que criei para ajudar pessoas que querem entrar em Cybersecurity mas não sabem por onde começar. A plataforma reúne conteúdos, artigos, exercícios e desafios práticos, e atualmente já conta com **mais de 110 alunos**.
+Por ser uma plataforma voltada para Cybersecurity, a segurança também faz parte do próprio desenvolvimento. No projeto, trabalho com conceitos de **Application Security, monitoramento, proteção de rotas, detecção de comportamentos suspeitos e hardening**, utilizando a própria plataforma como um ambiente para colocar esses conhecimentos em prática.
 
-Como a própria plataforma também envolve segurança, aproveitei o projeto para aplicar na prática conceitos de **Application Security, monitoramento, proteção de rotas, detecção de comportamentos suspeitos e hardening**. Foi também uma oportunidade de testar e evoluir minhas próprias abordagens de segurança em um sistema real.
+Também mantenho o **Malogro**, um canal voltado para programação, hacking ético e Cybersecurity, onde compartilho conhecimento e ajudo quem está começando a construir sua base técnica.
 
-Também mantenho o **Malogro**, um canal voltado para programação, hacking ético e cibersegurança, onde compartilho conhecimento e ajudo quem está começando a construir sua base técnica.
-
-Meu objetivo profissional é continuar evoluindo como **Backend Engineer**, aprofundando minha especialização em **Cloud, DevOps, DevSecOps e Application Security**, sempre buscando construir sistemas que sejam não apenas funcionais, mas também seguros, confiáveis e preparados para produção.
+Atualmente, meu objetivo é continuar evoluindo como **Backend Engineer**, aprofundando minha experiência em **Cloud, DevOps, DevSecOps e Application Security**, com foco na construção de sistemas seguros, confiáveis e preparados para produção.
 
 ---
 
 ### Experiência e Impacto
 
-| Instituição | Escopo de Atuação |
-| :--- | :--- |
-| **Carris Metropolitana** | Desenvolvimento de APIs core e painéis de gestão para o sistema de transporte de Lisboa. |
-| **GWM Brasil** | Arquiteto de sistemas backend e interfaces Smart TV para a rede de concessionárias. |
-| **Reebok Sports Club** | Responsável pela modernização técnica e estética do app oficial utilizando Flutter. |
-| **Balanzzy** | Implementação de arquitetura de APIs para a jornada gamificada Mini Passageiros. |
-| **Tônica.ag** | Liderança técnica de operações e infraestrutura de streaming para eventos corporativos. |
+| Instituição              | Escopo de Atuação                                                                                |
+| :----------------------- | :----------------------------------------------------------------------------------------------- |
+| **Carris Metropolitana** | Desenvolvimento de soluções e APIs para sistemas relacionados à mobilidade urbana em Portugal.   |
+| **GWM Brasil**           | Desenvolvimento backend e integração de APIs em projetos relacionados à rede de concessionárias. |
+| **Reebok Sports Club**   | Desenvolvimento e modernização de funcionalidades do app utilizando Flutter e Dart.              |
+| **Balanzzy**             | Desenvolvimento de APIs e soluções para a jornada gamificada Mini Passageiros.                   |
+| **Tônica.ag**            | Atuação técnica em operações e infraestrutura de streaming para eventos corporativos.            |
 
 ---
 
@@ -88,7 +87,7 @@ Meu objetivo profissional é continuar evoluindo como **Backend Engineer**, apro
 ---
 
 ## Idiomas
-  
+
 <p align="center">
   <img src="https://img.shields.io/badge/Português(BR)-Nativo-009c3b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Inglês-Fluente-00247d?style=for-the-badge" />
@@ -111,6 +110,7 @@ Meu objetivo profissional é continuar evoluindo como **Backend Engineer**, apro
 </div>
 
 ---
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
