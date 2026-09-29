@@ -9,12 +9,23 @@
 
 ### Sobre Mim
 
-Sou Engenheiro de Software com foco em Backend, com experiência prática em desenvolvimento de APIs, arquitetura de software, DevOps e desenvolvimento de produtos digitais. Comecei a programar e estudar a área de tecnologia desde os meus 10 anos de idade, acumulando mais de 9 anos de contato contínuo com programação e desenvolvimento de software, além da experiência profissional adquirida ao longo da minha trajetória.
+**Backend Engineer | APIs, PHP/Python, SQL & Cloud | Application Security in Progress**
 
-* **Sistemas Core:** Desenvolvimento de APIs robustas utilizando Slim Framework, Twig e integração com PostgreSQL/MySQL.
-* **Engenharia Mobile:** Domínio de Flutter e Dart para fluxos complexos de UI e gerenciamento de estado.
-* **Operações Técnicas:** Liderança técnica em transmissões ao vivo, mixagem de áudio e infraestrutura de vídeo (GWM Live Pernambuco).
-* **Fundação Técnica:** Matemática Avançada (Programa Acadêmico em Portugal).
+Sou Engenheiro de Software com foco em Backend e mais de 9 anos de experiência prática com programação e desenvolvimento de software. Comecei a programar aos 10 anos e, desde então, venho trabalhando com desenvolvimento de APIs, sistemas, produtos digitais, cloud e DevOps.
+
+Meu foco principal hoje está em **Backend e desenvolvimento de APIs**, utilizando tecnologias como **PHP, Python, SQL e JavaScript**, além de experiência com **Flutter/Dart** e desenvolvimento full stack. Também venho aprofundando meus conhecimentos em **Application Security, DevSecOps e Cybersecurity**, buscando unir desenvolvimento e segurança na construção de sistemas.
+
+Ao longo da minha trajetória, participei de projetos em diferentes contextos, incluindo o desenvolvimento de funcionalidades para o **Reebok Club**, sistemas e integrações de APIs para a **GWM Brasil** e soluções relacionadas à mobilidade urbana em Portugal.
+
+Além da atuação profissional, desenvolvo meus próprios projetos para colocar esses conhecimentos em prática.
+
+Um deles é a **ByteSec**, uma plataforma gratuita que criei para ajudar pessoas que querem entrar em Cybersecurity mas não sabem por onde começar. A plataforma reúne conteúdos, artigos, exercícios e desafios práticos, e atualmente já conta com **mais de 110 alunos**.
+
+Como a própria plataforma também envolve segurança, aproveitei o projeto para aplicar na prática conceitos de **Application Security, monitoramento, proteção de rotas, detecção de comportamentos suspeitos e hardening**. Foi também uma oportunidade de testar e evoluir minhas próprias abordagens de segurança em um sistema real.
+
+Também mantenho o **Malogro**, um canal voltado para programação, hacking ético e cibersegurança, onde compartilho conhecimento e ajudo quem está começando a construir sua base técnica.
+
+Meu objetivo profissional é continuar evoluindo como **Backend Engineer**, aprofundando minha especialização em **Cloud, DevOps, DevSecOps e Application Security**, sempre buscando construir sistemas que sejam não apenas funcionais, mas também seguros, confiáveis e preparados para produção.
 
 ---
 
