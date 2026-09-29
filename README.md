@@ -18,7 +18,11 @@ Ao longo da minha trajetória, participei de projetos como o **Reebok Club**, tr
 
 Também desenvolvo meus próprios projetos para aplicar esses conhecimentos na prática.
 
-Um dos principais é a **ByteSec**, uma plataforma gratuita que criei para ajudar quem quer entrar em Cybersecurity e não sabe por onde começar. A plataforma reúne conteúdos, artigos, exercícios e desafios práticos e já conta com **mais de 110 alunos**.
+Boa parte dos projetos em que trabalhei ao longo da minha trajetória não está disponível publicamente no GitHub ou GitLab. Por questões de **segurança, confidencialidade e propriedade dos projetos**, muitos deles não podem ter seu código ou detalhes técnicos expostos publicamente.
+
+Por isso, a quantidade de repositórios públicos no meu perfil não representa toda a minha experiência profissional. Quando necessário, posso **comprovar a participação e existência desses projetos por diferentes meios**, respeitando sempre as limitações de confidencialidade de cada trabalho.
+
+Um dos principais é a **ByteSec**, uma plataforma gratuita que criei para ajudar quem quer entrar em Cybersecurity e não sabe por onde começar.
 
 Por ser uma plataforma voltada para Cybersecurity, a segurança também faz parte do próprio desenvolvimento. No projeto, trabalho com conceitos de **Application Security, monitoramento, proteção de rotas, detecção de comportamentos suspeitos e hardening**, utilizando a própria plataforma como um ambiente para colocar esses conhecimentos em prática.
 
